@@ -560,7 +560,7 @@ footer {
   text-align: center;
   bottom: 0;
   width: 100%;
-  scroll-behavior: none;
+  margin-bottom: none;
 }
 
 
