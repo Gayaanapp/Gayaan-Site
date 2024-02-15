@@ -518,7 +518,7 @@ body {
   font-style: normal;
   color: #262B47;
   line-height: 1.5em;
-  overflow-x: hidden; /* This line disables horizontal scrollbar */
+  overflow-x: none; /* This line disables horizontal scrollbar */
 
 }
 
