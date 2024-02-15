@@ -518,7 +518,7 @@ body {
   font-style: normal;
   color: #262B47;
   line-height: 1.5em;
-  overflow-x: none; /* This line disables horizontal scrollbar */
+  overflow-x: hidden; /* This line disables horizontal scrollbar */
 
 }
 
@@ -560,7 +560,7 @@ footer {
   text-align: center;
   bottom: 0;
   width: 100%;
-  margin-bottom: none;
+  margin-bottom: 0;
 }
 
 
